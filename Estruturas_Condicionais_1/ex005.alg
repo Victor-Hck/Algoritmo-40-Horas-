@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Aluno"
 // Disciplina  :  [Linguagem e Lógica de Programação]
 // Professor   : [Gustavo Guanabara]
 // Descrição   : Verifica se o aluno está aprovado ou reprovado
